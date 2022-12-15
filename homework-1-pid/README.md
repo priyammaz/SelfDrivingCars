@@ -1,4 +1,4 @@
-# HW 2: Waypoint Following PID
+# HW 1: Waypoint Following PID
 
 In this HW, you need to implement PID controller to follow waypoints along a path.
 
