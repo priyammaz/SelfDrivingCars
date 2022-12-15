@@ -19,4 +19,5 @@ In this HW, you need to implement PID controller to follow waypoints along a pat
 This repo includes:
 
 Our completed `gem_waypoint_pid`
+
 A demo video: https://youtu.be/LxAkkcM0kqA
